@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "adding_variables.C": "cpp",
+        "adding_variables_pt2.C": "cpp"
+    }
+}
