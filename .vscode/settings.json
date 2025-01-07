@@ -5,6 +5,7 @@
         "ex2.C": "cpp",
         "ex3.C": "cpp",
         "ex4.C": "cpp",
-        "more_examples.C": "cpp"
+        "more_examples.C": "cpp",
+        "solution.C": "cpp"
     }
 }
