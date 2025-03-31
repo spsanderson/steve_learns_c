@@ -1,0 +1,13 @@
+#!/bind/bash
+# Demonstrating continue command
+
+count=0
+wile [ $count -lt 10 ]
+do
+    count=$((count + 1))
+    if [ $((count % 2)) -eq 0 ]; then
+        continue  # Skip even numbers
+    fi
+    echo "Count: $count"  # Print only odd numbers
+done
+echo "Loop finished."  # Indicate the end of the loop
